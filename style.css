@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+}
+
+img{
+    border: solid white 6px;
+    margin-top: 70px;
+}
+
+#below_img{
+
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    color: aliceblue;
+
+
+
+}
+
+#simple_txt{
+    color: whitesmoke;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+}
